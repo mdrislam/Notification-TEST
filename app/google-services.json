@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622142188485",
+    "project_id": "testnotification-9a36e",
+    "storage_bucket": "testnotification-9a36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622142188485:android:fd330582602efed27839ac",
+        "android_client_info": {
+          "package_name": "com.mristudio.notification_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622142188485-18duv6deq2ksnsop9atv71i95qeo9njb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKOHAyjIIIFrVNDjGojsVziSiDWDdjLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622142188485-18duv6deq2ksnsop9atv71i95qeo9njb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
